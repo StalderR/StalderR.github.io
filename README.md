@@ -17,8 +17,8 @@ Hey, I'm Ryan, a high school student passionate about cybersecurity and computer
   - [Room Title] - [1-2 sentences about what I learned]
 
 ### 🎓 Certifications
-- Information Technology Specialist in Computational Thinking (Certiport)
-- Information Technology Specialist in Cybersecurity (Certiport)
+- [Information Technology Specialist in Computational Thinking (Certiport)](./ComputationalThinkingCertification.pdf)
+- [Information Technology Specialist in Cybersecurity (Certiport)](./CybersecurityCertification.pdf)
 - [Google Cybersecurity Certificate – *In Progress*]
 
 ## 📁 Files and Tools
