@@ -12,9 +12,9 @@ Hey, I'm Ryan, a high school student passionate about cybersecurity and computer
 
 ### 🔍 TryHackMe Progress
 - Completed Rooms:
-  - Introduction to Cyber Security – Learned the basics of CIA triad, malware types, and how to stay safe online.
-  - Linux Fundamentals Part 1 – Practiced basic Linux commands and terminal navigation.
-  - Network Security – Explored common network vulnerabilities and how firewalls/IDS work.
+  - Offensive Security Intro - Practiced exploiting non-private pages 
+  - Defensive Security Intro – Practiced remeadiation and malware analysis
+  - What is Networking? – Explored common network topics (IPs, MAC, etc.)
 
 ## 🧠 Skills
 - Linux command line basics
